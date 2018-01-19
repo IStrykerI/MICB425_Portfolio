@@ -1,7 +1,26 @@
 ---
 title: "MICB425 Portfolio"
 author: "Jonah Lin (30616130)"
-date: "January 19, 2018"
-output: html_document
+date: "Version `r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: yes
 ---
 
+[MICB425 Link](https://github.com/EDUCE-UBC/MICB425)
+
+![](Science_Background.jpg){width=50%}
+
+Row Names | Data 1 | Data 2 
+--------- | ------ | ------ 
+Row 1     |   0    |    1 
+Row 2     |   1    |    0
+
+```{r title, message=TRUE, warning=FALSE, fig.width=4} 
+#Create 2 lists of numbers 
+List1 = c(1,2,3) 
+List2 = c(4,5,6) 
+ 
+#Plot List1 vs. List2 
+plot(x=List1, y=List2)
+```
