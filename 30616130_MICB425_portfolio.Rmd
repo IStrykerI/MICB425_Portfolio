@@ -91,7 +91,7 @@ git push
 ### RMarkdown pretty PDF challenge
 Paste your code from the in-class activity of recreating the example PDF.
 
-```{r child = "DS_Assignment3.Rmd"}
+```{r child = "DS_assignment3.Rmd"}
 
 ```
 
