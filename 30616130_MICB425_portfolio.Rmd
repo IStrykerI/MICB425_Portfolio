@@ -11,25 +11,25 @@ Reserve the first level headings (#) for the start of a new Module. This will he
 **Note: Please edit this template to your heart's content. This is meant to be the armature upon which you build your individual portfolio. You do not need to keep this instructive text in your final portfolio, although you do need to keep module and assignment names so we can identify what is what.**
 
 
-## Module 01 portfolio check
+## Module 01 Portfolio Check
 The first of your second level headers (##) is to be used for the portfolio content checks. The Module 01 portfolio check has been built for you directly into this template, but will also be available as a stand-alone markdown document available on the MICB425 GitHub so that you know what is required in each module section in your portfolio. The completion status and comments will be filled in by the instructors during portfolio checks when your current portfolios are pulled from GitHub.
 
-* Installation check
+* Installation Check
     + Completion status:
     + Comments:
-* Portfolio repo setup
+* Portfolio Repo Setup
     + Completion status: 
     + Comments:
 * RMarkdown Pretty PDF Challenge
     + Completion status:
     + Comments:
-* Evidence worksheet_01
+* Evidence Worksheet_01
     + Completion status:
     + Comments:
-* Evidence worksheet_02
+* Evidence Worksheet_02
     + Completion status:
     + Comments:
-* Evidence worksheet_03
+* Evidence Worksheet_03
     + Completion status:
     + Comments:
 * Problem Set_01
@@ -38,7 +38,7 @@ The first of your second level headers (##) is to be used for the portfolio cont
 * Problem Set_02
     + Completion status:
     + Comments:
-* Writing assessment_01
+* Writing Assessment_01
     + Completion status:
     + Comments:
 * Additional Readings
@@ -55,7 +55,7 @@ Use this space to include your installation screenshots.
 
 ![](WTLin_MICB425_Assign1.png)
 
-### Portfolio repo setup
+### Portfolio Repo Setup
 Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
 
 git config --global user.name "Jonah Lin"
@@ -88,7 +88,7 @@ git commit -m "State commit message here"
 
 git push
 
-### RMarkdown pretty PDF challenge
+### RMarkdown Pretty PDF Challenge
 Paste your code from the in-class activity of recreating the example PDF.
 
 ```{r child = "DS_assignment3.Rmd"}
@@ -96,7 +96,7 @@ Paste your code from the in-class activity of recreating the example PDF.
 ```
 
 ## Origins and Earth Systems
-### Evidence worksheet 01 
+### Evidence Worksheet_01 "Prokaryotes: The Unseen Majority"
 The template for the first Evidence Worksheet has been included here. The first thing for any assignment should link(s) to any relevant literature (which should be included as full citations in a module references section below).
 
 You can copy-paste in the answers you recorded when working through the evidence worksheet into this portfolio template. 
@@ -105,11 +105,11 @@ As you include Evidence worksheets and Problem sets in the future, ensure that y
 
 [Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
-#### Learning objectives
+#### Learning Objectives
 Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
 
-#### General questions
-* What were the main questions being asked?  
+#### General Questions
+* What were the main Questions being asked?  
     Main Questions:
     - What were the actual number of prokaryotes?
     - What was the total amount of their total cellular C on Earth?
@@ -125,7 +125,7 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
     - Highest cellular productivity is found in open ocean (More mutations/rare genetic events are likely to occur)
     - Mutations = Major source of genetic diversity and essential to formation of novel species
 
-* Do new questions arise from the results?  
+* Do new Questions arise from the results?  
     New Questions:
     - More information is needed for subsurface prokaryotes
     - More detailed knowledge is needed regarding prokaryotic diversity
@@ -138,13 +138,82 @@ Describe the numerical abundance of microbial life in relation to ecology and bi
     - Some information regarding subsurface were only approximations or estimates (Data was derived at one site from only one study)
     - Some studies used logarithmic extrapolations rather than arithmetic averages (Could interfer with interpretation of results)
     - Grouping of prokaryotes into 3 primary habitats only (Ignoring other habitats such as in the air, leaves, animals, insects, etc.)
+    
+
+### Evidence Worksheet_02 "Life and the Evolution of Earth's Atmosphere"
+#### Learning Objectives
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+#### General Questions    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
 
 
-### Problem set 01
-#### Learning objectives: 
+    + 4.6 billion years ago  
+        - Formation of solar system (Inner planets received water vapour and C)
+    + 4.5 billion years ago  
+        - Formation of moon (Gave Earth spin and tilt, day-night cycle, and seasons)
+    + 4.2 billion years ago  
+        - Meteorite Bombardment (Earth couldn't have been a permanent habitation)
+    + 3.8 billion years ago  
+        - Meteorite Bombardment Halted (Sea water chemistry stabilized)
+        - Earliest sign that life began (Possibly existed via anoxygenic photosynthesis)
+    + 3.75 billion years ago  
+        - Early Methanogenesis
+    + 3.5 billion years ago  
+        - Presence of Rubisco (Implies global oxygenic photosynthesis)
+        - Evolution of cyanobacteria
+        - Presence of sulphate (Implies localized non-reducing conditions, but not necessarily the presence of O~2~)
+    + 3.0 billion years ago  
+        - Glaciation
+        - Evidence of photosynthesis (Stromatolites from Cyanobacteria)
+        - Presence of Cyanobacteria --> Emergence of Eukaryotes
+    + 2.7 billion years ago  
+        - Presence of hydrocarbon biomarkers and 2α-methylhopanes (Implies oxygenic photosynthesis from Cyanobacteria)
+        - Presence of steranes (Implies presence of Eukaryotes)
+    + 2.2 billion years ago  
+        - Glaciation
+        - Large increase in oxygen level (Microaerobic Early Atmosphere --> Oxic Air)
+        - Existence of redbeds (Implies oxidation)
+        - Apperance of complex eukaryotes may be involved in sharp increase in O~2~ level
+        - Cellular cybernetic switch between mitochondria and chloroplasts may control the link between photosynthesis, CO~2~, and N fixations
+    + 2.1 billion years ago
+        - Evoltuion of multicellular life
+    + 1.3 billion years ago
+        - Evolution of Eukaryotes
+    + 550,000 years ago  
+        - Cambrian Explosion (Expansion of Multicellular Evolution)
+        - Emergence of Land Plants (Increased oxygenation of atmosphere)
+    + 400,000 years ago  
+        - Emergence of Animals
+    + 200,000 years ago  
+        - Evolution of Homo sapiens
+
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+
+    + Hadean  
+        - Physical = Mainly glacial surface (100^o^C and lower due to CO~2~ cooling) with intervals of hot, molten surface from meteorite impacts (500^o^C)
+        - Chemical = Heavy CO~2~ and N~2~ atmospere with H~2~ and water vapour
+    + Archean  
+        - Physical = Heat flow was high due to radioactivity and decay (Powers plate tectonics and volcanism) followed by glaciation near the end of Eon
+        - Chemical = Atmosphere lacked O~2~ and was mainly CH~4~:CO~2~ composition
+    + Precambrian  
+        - Physical = Collection of Earth's landmasses into a single supercontinent (Pangaea) with a number of glacial periods
+        - Chemical = Atmosphere composition was mainly N~2~, CO~2~, and other inert gases (Atmosphere lacked O~2~ until emergence of photosynthetic life forms)
+    + Proterozoic  
+        - Physical = High tectonic activity that led to the formation of mountains and glaciation period
+        - Chemical = Sharp increase in O~2~ from Cyanobacteria's oxygenic photosynthesis
+    + Phanerozoic  
+        - Physical = Global temperatures warm enough to support complex life
+        - Chemical = Increased oxygenation of atmosphere due to emergence of land plants
+
+
+### Problem Set_01
+#### Learning Objectives: 
 Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
 
-#### Specific questions:
+#### Specific Questions:
 * What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.
 
   
@@ -241,9 +310,84 @@ Describe the numerical abundance of microbial life in relation to the ecology an
     High Prokaryotic Abundance <--> Higher Diversity <--> Higher Metabolic Potentials (More prokaryotes will lead to higher diversity via mutations and mutations could contribute to better genes that help with metabolism)  
     
 
-### Module 01 references
+### Problem Set_02
+#### Learning Objectives:
+Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
+
+#### Specific Questions:
+* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?
+    
+    
+    Primary Geophysical Processes = Tectonics and atmospheric photocehmical processes
+    Primary Biogeochemical Processes = Microbially catalyzed, thermodynamically constrained redox reactions
+    Abiotic vs. Biotic Processes vary with respect to matter/energy transformation and how are they interconnected:
+    Abiotic processes usually supplies biotic processes with substrates (Biotic processes uses up energy to sustain life and uses up matter to produce "waste products" whereas abiotic processes creates energy via transformation of "waste products" to substrates usable by microbes)
+
+
+* Why is Earth’s redox state considered an emergent property?
+    
+    
+    Earth's Redox State = Emergent Property of Microbial Life on Planetary Scale
+    - First 5 elements (C/H/N/O/S) driven largely by microbially catalyzed, thermodynamically constrained redox reactions
+    - C/S/P dependent on tectonics (Volcanism/Rock Weathering)
+    - Biogeochemical cycles evolved on planetary scale to form set of nested abiotically driven acid-base and biologically driven redox reactions (Sets lower limits on external energy required to sustain cycles)
+    - Feedbacks between evolution of microbial metabolic geochemical processes create average redox conditions of oceans/atmosphere
+    - Biological Oxidation = Driven by photosynthesis
+
+
+* How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
+    
+    
+    Reversible electron transfer reactions --> Element + Nutrient Cycles at different ecological scales?
+    Steps:
+    1) Energy of light from photosynthesis oxidizes electron donor
+    2) The electrons + protons generated in the process are used to reduce inorganic C to organic matter with higher energy bonds
+    3) Resulting oxidizing metabolites may serve as electron acceptors in aerobic or anaerobic respiration for photosynthetic organisms that use these "waste products" as oxidants
+    4) Nutrients may be buried in sediments and returned to biosphere via mountain building and subsequent erosion/geothermal activity
+    Strategies used by microbes to overcome thermodynamic barriers to reversible electron flow:
+    - Reduction of CO~2~ with H~2~ (If H tension is sufficiently low, the reversible process becomes thermodynamically favorable). This may require the help of multispecies assemblages (H-Consuming sulfate reducers). Uses differences in concentration of substrates for overcoming thermodynamic barriers
+    - Citric acid cycle oxidizes acetate stepwise into CO~2~. Breaking down elements in stepwise fashion uses less energy than breaking down elements directly into its most basic elements
+    - Use of enzyme in converting N~2~ to NH~4~^+^. Enzymes reduces energy required to overcome thermodynamic barriers
+    
+
+* Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?
+    
+    
+    N Cycle
+    - N Fixation transforms N~2~ to NH~4~^+^ for use in synthesis of proteins and nucleic acids (Requires mechanism for protecting enzyme from oxygen by spatially or temporally segregating nitrogen fixation from aerobic environments)
+    - Oxidation of ammonia to hydroxylamine via ammonia monooxygenase
+    Relationship between N cycle and climate change:
+    - Syntheic N from fertilizers lead to excess N in N cycle
+    - Excess N may lead to algae blooms (Nutrient enrichment and warm waters)
+    - Excess N may affect denitrification process in freshwater (Influx of N > Efflux of N)
+
+
+* What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?
+    
+    
+    Relationship between microbial diversity and metabolic diversity:
+    Higher microbial diversity leads to higher metabolic diversity since different microbes may have a better chance of survival under different conditions using a different resource for metabolism (High metabolic diversity)
+    Relation to discovery of new protein families from microbial community genomes:
+    Microbial communities with high diversity (In terms of species and metabolic diversity) will have a higher chance of finding new protein families due to mutations creating more efficient or functionally different proteins in microbes.
+
+
+* On what basis do the authors consider microbes the guardians of metabolism?
+    
+    
+    Microbes = Guardians of Metabolism
+    - Dispersal of core planetary gene set (VGT/HGT)
+    - Selective pressure leads to evolution of boutique genes that protect metabolic pathway (Enables retention of fundamental redox processes using microbes as vessels)
+
+
+### Module 01 References
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
 
 An example for Whitman and Wiebe (1998) has been included below.
 
-Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The Unseen Majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+Falkowski PG, et al. 2009. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320(5879):1034-1039.
+[JSTOR20054782](http://www.jstor.org.ezproxy.library.ubc.ca/stable/20054782)
+
+Suddick EC, Whitney P, Townsend AR, and Davidson EA. 2013. The role of nitrogen in climate change and the impacts of nitrogen–climate interactions in the United States: foreword to thematic issue. Biogeochemistry. 114(3):1-10.
+[1573-515X](https://link.springer.com/article/10.1007/s10533-012-9795-z)
