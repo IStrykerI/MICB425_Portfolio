@@ -93,9 +93,7 @@ git push
 
 ### Plotting Data in R
 
-Note: Cannot knit code when they were in R, so posted raw code here.
-
-
+Note: Cannot knit code when they were in R, so posted raw code in DS_Assignment_RPlotting.Rmd.
 
 ### RMarkdown Pretty PDF Challenge
 Paste your code from the in-class activity of recreating the example PDF.
