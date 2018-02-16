@@ -1,10 +1,13 @@
 ---
-title: "MICB425 Portfolio - Microbial Ecological Genomics: From Genomes to Biomes, Spring 2018"
+title: 'MICB425 Portfolio - Microbial Ecological Genomics: From Genomes to Biomes,
+  Spring 2018'
 author: "Wei Ting, Jonah, Lin, 30616130"
 date: "Version `r format(Sys.time(), '%B %d, %Y')`"
-output: 
+output:
   html_document:
-    toc: true
+    toc: yes
+  pdf_document:
+    toc: yes
 ---
 # Module 01
 Reserve the first level headings (#) for the start of a new Module. This will help to organize your portfolio in an intuitive fashion.  
@@ -53,7 +56,7 @@ Third level headers (###) should be used for links to assignments, evidence work
 
 Use this space to include your installation screenshots.
 
-![](WTLin_MICB425_Assign1.png)
+![](Images/WTLin_MICB425_Assign1.png)
 
 ### Portfolio Repo Setup
 Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
@@ -92,9 +95,7 @@ git push
 
 Note: Cannot knit code when they were in R, so posted raw code here.
 
-```{r child = "DS_Assignment_R_Plotting.R"}
 
-```
 
 ### RMarkdown Pretty PDF Challenge
 Paste your code from the in-class activity of recreating the example PDF.
@@ -356,6 +357,7 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
     - Reduction of CO~2~ with H~2~ (If H tension is sufficiently low, the reversible process becomes thermodynamically favorable). This may require the help of multispecies assemblages (H-Consuming sulfate reducers). Uses differences in concentration of substrates for overcoming thermodynamic barriers
     - Citric acid cycle oxidizes acetate stepwise into CO~2~. Breaking down elements in stepwise fashion uses less energy than breaking down elements directly into its most basic elements
     - Use of enzyme in converting N~2~ to NH~4~^+^. Enzymes reduces energy required to overcome thermodynamic barriers
+    - Microbes work together in communities to overcome thermodynamic barriers. Uses products of other microbe population as substrates
     
 
 * Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?
@@ -386,6 +388,10 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
     - Dispersal of core planetary gene set (VGT/HGT)
     - Selective pressure leads to evolution of boutique genes that protect metabolic pathway (Enables retention of fundamental redox processes using microbes as vessels)
 
+
+### Module 01 Writing
+
+Writing Assignment is in MICB425_Writing1.pdf on Github
 
 ### Module 01 References
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.

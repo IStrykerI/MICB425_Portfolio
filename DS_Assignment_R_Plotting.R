@@ -83,8 +83,5 @@ Nutrient_Concentrations = metadata %>% select(Depth_m, O2_uM, PO4_uM, SiO2_uM, N
 #### # Collapse all nutrient concentrations into depths
 Nutrient_Depths = gather(Nutrient_Concentrations, "Nutrients", "uM", -1)
 
-#### # Calculate nM from uM and create column
-Nutrient_Depths$nM <- Nutrient_Depths$uM * 1000
-
 #### # Plot faceted figure of all nutrient concentrations
-ggplot(Nutrient_Depths, aes(x=Depth_m, y=nM)) + geom_point() + geom_line() + facet_wrap(~Nutrients, scales="free_y")
+ggplot(Nutrient_Depths, aes(x=Depth_m, y=uM)) + geom_point() + geom_line() + facet_wrap(~Nutrients, scales="free_y")
