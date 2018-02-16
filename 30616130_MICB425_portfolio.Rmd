@@ -93,7 +93,9 @@ git push
 
 ### Plotting Data in R
 
-Note: Cannot knit code when they were in R, so posted raw code in DS_Assignment_RPlotting.Rmd.
+```{r child = "DS_Assignment_RPlotting.Rmd"}
+
+```
 
 ### RMarkdown Pretty PDF Challenge
 Paste your code from the in-class activity of recreating the example PDF.
@@ -389,7 +391,11 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
 
 ### Module 01 Writing
 
-Writing Assignment is in MICB425_Writing1.pdf on Github
+![](Images/MICB425_Writing1_1.png)
+![](Images/MICB425_Writing1_2.png)
+![](Images/MICB425_Writing1_3.png)
+![](Images/MICB425_Writing1_4.png)
+![](Images/MICB425_Writing1_5.png)
 
 ### Module 01 References
 Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
