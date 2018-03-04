@@ -218,6 +218,8 @@ Comment on the emergence of microbial life and the evolution of Earth systems
         - Chemical = Increased oxygenation of atmosphere due to emergence of land plants
 
 
+### Evidence Worksheet_03 "The Anthropocene"
+
 ### Problem Set_01
 #### Learning Objectives: 
 Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
@@ -269,7 +271,7 @@ Describe the numerical abundance of microbial life in relation to the ecology an
     Primary Limiting Factor(s): Stable Space/Resources/Radiation/Lack of Moisture
 
 
-* Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
+* Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth's biosphere measured in km?  
     
     
     Vertical Distance of Earth's Biosphere: ~24 - 44 km  
@@ -333,7 +335,7 @@ Discuss the role of microbial diversity and formation of coupled metabolism in d
     Abiotic processes usually supplies biotic processes with substrates (Biotic processes uses up energy to sustain life and uses up matter to produce "waste products" whereas abiotic processes creates energy via transformation of "waste products" to substrates usable by microbes)
 
 
-* Why is Earth’s redox state considered an emergent property?
+* Why is Earth's redox state considered an emergent property?
     
     
     Earth's Redox State = Emergent Property of Microbial Life on Planetary Scale
@@ -402,10 +404,18 @@ Utilize this space to include a bibliography of any literature you want associat
 
 An example for Whitman and Wiebe (1998) has been included below.
 
-Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The Unseen Majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The Unseen Majority. Proc Natl Acad Sci USA. 95(12):6578-6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
 
 Falkowski PG, et al. 2009. The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science. 320(5879):1034-1039.
 [JSTOR20054782](http://www.jstor.org.ezproxy.library.ubc.ca/stable/20054782)
 
-Suddick EC, Whitney P, Townsend AR, and Davidson EA. 2013. The role of nitrogen in climate change and the impacts of nitrogen–climate interactions in the United States: foreword to thematic issue. Biogeochemistry. 114(3):1-10.
+Suddick EC, Whitney P, Townsend AR, and Davidson EA. 2013. The role of nitrogen in climate change and the impacts of nitrogen-climate interactions in the United States: foreword to thematic issue. Biogeochemistry. 114(3):1-10.
 [1573-515X](https://link.springer.com/article/10.1007/s10533-012-9795-z)
+
+# Module 02
+
+### Evidence worksheet_04 "Bacterial Rhodopsin Gene Expression"
+
+# Module 03
+
+### Module 03 Writing
