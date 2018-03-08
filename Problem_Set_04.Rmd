@@ -106,4 +106,6 @@ Real_Comm_SCHAO1 = specpool(Community_Diversity_Data)
 # 3) R Chao1 Estimate For Sample = 10
 # 4) R Chao1 Estimate For Original Total Community = 17
 
+# Note: Fix later...
+
 ```
