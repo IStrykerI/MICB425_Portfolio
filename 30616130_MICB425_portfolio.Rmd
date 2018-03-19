@@ -227,6 +227,14 @@ Zehnder AJB. 1988. Biology of anaerobic microorganisms. Research in Microbiology
 
 # Module 03
 
+### Evidence worksheet_05
+
+### Problem set_04
+
+```{r child = "File_Fragments/Problem_Set_3-4.Rmd"}
+
+```
+
 ### Module 03 Writing
 
 ### Module 03 References
