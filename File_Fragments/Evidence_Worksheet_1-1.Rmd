@@ -1,0 +1,40 @@
+---
+title: "Untitled"
+author: "Jonah Lin (30616130)"
+date: "March 18, 2018"
+output: html_document
+---
+
+#### Learning Objectives
+Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
+
+#### General Questions
+* What were the main Questions being asked?  
+    Main Questions:
+    - What were the actual number of prokaryotes?
+    - What was the total amount of their total cellular C on Earth?
+
+* What were the primary methodological approaches used?  
+    Primary Methodological Approaches: Usage of various papers for estimating the number of prokaryotes in various habitats, total C content (Mainly), turnover times, and cellular production rates   
+
+* Summarize the main results or findings.  
+    Summary of Main Results/Findings:
+    - Total C of prokaryotes on earth is approx. 60-100% of total C found in plants
+    - Prokaryotes also contain large amounts of N/P/Other essiential nutrients
+    - Turnover rates are higher for surface prokaryotes than subsurface prokaryotes
+    - Highest cellular productivity is found in open ocean (More mutations/rare genetic events are likely to occur)
+    - Mutations = Major source of genetic diversity and essential to formation of novel species
+
+* Do new Questions arise from the results?  
+    New Questions:
+    - More information is needed for subsurface prokaryotes
+    - More detailed knowledge is needed regarding prokaryotic diversity
+
+* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+    Specific Advantages:
+    - Lots of tables with numbers for calculations (Approx. population in each primary habitats, total C contents in surface/subsurface prokaryotes and plants, turnover rates, simultaneous mutation rates, etc.)
+    - Papers were logical for the most part when explaining their interpretations (Assumptions were also stated for the most part)
+    Specific Challenges:
+    - Some information regarding subsurface were only approximations or estimates (Data was derived at one site from only one study)
+    - Some studies used logarithmic extrapolations rather than arithmetic averages (Could interfer with interpretation of results)
+    - Grouping of prokaryotes into 3 primary habitats only (Ignoring other habitats such as in the air, leaves, animals, insects, etc.)

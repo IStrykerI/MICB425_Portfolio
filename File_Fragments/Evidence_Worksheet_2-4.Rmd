@@ -1,0 +1,38 @@
+---
+title: "Untitled"
+author: "Jonah Lin (30616130)"
+date: "March 18, 2018"
+output: html_document
+---
+
+#### Learning objectives
+Discuss the relationship between microbial community structure and metabolic diversity  
+Evaluate common methods for studying the diversity of microbial communities  
+Recognize basic design elements in metagenomic workflows  
+
+#### General Questions
+* What were the main questions being asked?
+    Main Questions:
+    - What is the physiological basis of light-activated growth stimulation?
+    - What are the various specific functions and physiological roles of diverse marine microbial PRs 
+
+* What were the primary methodological approaches used?
+    - Screening fosmid library for in vivo PR photosystem expression 
+    - Genomic analysis of candidate PR photosystem-expressing clones
+    - Genetic and phenotypic analysis of PR photosystem
+    - Light-activated proton translocation
+    - PR-driven proton translocation results in photophosphorylation in E. coli
+
+* Summarize the main results or findings. 
+    - Large-insert libraries increase probability of capturing complete metabolic pathways in single clone, but low copy number decreases sensitivity of detecting heterologous gene expression
+    - Increasing fosmid copy number can significantly enhance detectable levels of recombinant gene expression and detection rate of desired phenotypes in metagenomic libraries
+    - Only 6 genes required to enable light-activated proton translocation and photophosphorylation fully in a heterologous host (Necessary + Sufficient for complete synthesis + assembly of fully functional PR photoprotein)
+    - Illumination of cells expressing native marine bacterial PR photosystem generates a proton-motive force that does indeed drive cellular ATP synthesis
+    - PR-based phototrophy plays a significant role in planktonic marine microorganisms
+
+* Do new questions arise from the results?
+    - Are there alternative approaches for detecting all PR-containing clones?
+
+* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?
+    - Diagrams were helpful in understanding graphs
+    - Use of E. coli was logical in showing experimental results

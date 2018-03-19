@@ -1,0 +1,36 @@
+---
+title: "Repo_Setup"
+author: "Jonah Lin (30616130)"
+date: "March 18, 2018"
+output: html_document
+---
+
+git config --global user.name "Jonah Lin"
+
+git config -- global user.email "1jonahlin1@gmail.com"
+
+... Set up MICB425_Materials folder in relevant place ...
+
+mkdir MICB425_Portfolio
+
+cd MICB425_Portfolio
+
+git init
+
+git add .
+
+git commit -m "State commit message here"
+
+git remote add origin git@github.com:IStrykerI/MICB425_Portfolio.git
+
+git remote -v
+
+git push -u origin master
+
+... Needed key to get to this repo since it's locked. Regular submit codes below ...
+
+git add .
+
+git commit -m "State commit message here"
+
+git push

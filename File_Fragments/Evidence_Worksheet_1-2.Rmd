@@ -1,0 +1,73 @@
+---
+title: "Evidence_Worksheet_1-2"
+author: "Jonah Lin (30616130)"
+date: "March 18, 2018"
+output: html_document
+---
+
+#### Learning Objectives
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+#### General Questions    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+
+    + 4.6 billion years ago  
+        - Formation of solar system (Inner planets received water vapour and C)
+    + 4.5 billion years ago  
+        - Formation of moon (Gave Earth spin and tilt, day-night cycle, and seasons)
+    + 4.2 billion years ago  
+        - Meteorite Bombardment (Earth couldn't have been a permanent habitation)
+    + 3.8 billion years ago  
+        - Meteorite Bombardment Halted (Sea water chemistry stabilized)
+        - Earliest sign that life began (Possibly existed via anoxygenic photosynthesis)
+    + 3.75 billion years ago  
+        - Early Methanogenesis
+    + 3.5 billion years ago  
+        - Presence of Rubisco (Implies global oxygenic photosynthesis)
+        - Evolution of cyanobacteria
+        - Presence of sulphate (Implies localized non-reducing conditions, but not necessarily the presence of O~2~)
+    + 3.0 billion years ago  
+        - Glaciation
+        - Evidence of photosynthesis (Stromatolites from Cyanobacteria)
+        - Presence of Cyanobacteria --> Emergence of Eukaryotes
+    + 2.7 billion years ago  
+        - Presence of hydrocarbon biomarkers and 2α-methylhopanes (Implies oxygenic photosynthesis from Cyanobacteria)
+        - Presence of steranes (Implies presence of Eukaryotes)
+    + 2.2 billion years ago  
+        - Glaciation
+        - Large increase in oxygen level (Microaerobic Early Atmosphere --> Oxic Air)
+        - Existence of redbeds (Implies oxidation)
+        - Apperance of complex eukaryotes may be involved in sharp increase in O~2~ level
+        - Cellular cybernetic switch between mitochondria and chloroplasts may control the link between photosynthesis, CO~2~, and N fixations
+    + 2.1 billion years ago
+        - Evoltuion of multicellular life
+    + 1.3 billion years ago
+        - Evolution of Eukaryotes
+    + 550,000 years ago  
+        - Cambrian Explosion (Expansion of Multicellular Evolution)
+        - Emergence of Land Plants (Increased oxygenation of atmosphere)
+    + 400,000 years ago  
+        - Emergence of Animals
+    + 200,000 years ago  
+        - Evolution of Homo sapiens
+
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+
+    + Hadean  
+        - Physical = Mainly glacial surface (100^o^C and lower due to CO~2~ cooling) with intervals of hot, molten surface from meteorite impacts (500^o^C)
+        - Chemical = Heavy CO~2~ and N~2~ atmospere with H~2~ and water vapour
+    + Archean  
+        - Physical = Heat flow was high due to radioactivity and decay (Powers plate tectonics and volcanism) followed by glaciation near the end of Eon
+        - Chemical = Atmosphere lacked O~2~ and was mainly CH~4~:CO~2~ composition
+    + Precambrian  
+        - Physical = Collection of Earth's landmasses into a single supercontinent (Pangaea) with a number of glacial periods
+        - Chemical = Atmosphere composition was mainly N~2~, CO~2~, and other inert gases (Atmosphere lacked O~2~ until emergence of photosynthetic life forms)
+    + Proterozoic  
+        - Physical = High tectonic activity that led to the formation of mountains and glaciation period
+        - Chemical = Sharp increase in O~2~ from Cyanobacteria's oxygenic photosynthesis
+    + Phanerozoic  
+        - Physical = Global temperatures warm enough to support complex life
+        - Chemical = Increased oxygenation of atmosphere due to emergence of land plants
