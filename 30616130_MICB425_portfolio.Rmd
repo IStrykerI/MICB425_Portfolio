@@ -16,6 +16,10 @@ output:
 
 - Refer to File_Fragments folder for individual files used to knit this portfolio
 
+- Currently uses R version 3.4.4
+
+- Project 1: Refer to MICB425_Project1.Rmd for Team 5's current work (Report not included yet)
+
 # Portfolio Check
 
 ## Module 01 Portfolio Content
@@ -139,8 +143,6 @@ Paste your code from the in-class activity of recreating the example PDF.
 ## Origins and Earth Systems
 ### Evidence Worksheet_01 "Prokaryotes: The Unseen Majority"
 
-[Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
-
 ```{r child = "File_Fragments/Evidence_Worksheet_1-1.Rmd"}
 
 ```
@@ -152,6 +154,10 @@ Paste your code from the in-class activity of recreating the example PDF.
 ```
 
 ### Evidence Worksheet_03 "The Anthropocene"
+
+```{r child = "File_Fragments/Evidence_Worksheet_1-3.Rmd"}
+
+```
 
 ### Problem Set_01
 
@@ -196,7 +202,7 @@ Nisbet EG, Sleep NH. 2001. The habitat and nature of early life. Nature. 409(682
 Rockström J, Steffen W, Noone K, Scheffer M, Teknik- och vetenskapshistoria (bytt namn 20120201), Skolan för arkitektur och samhällsbyggnad (ABE), KTH, Filosofi och teknikhistoria. 2009. A safe operating space for humanity. Nature. 461(7263):472-475.
 [N/A]()
 
-Schrag DP. 2012. Geobiology of the Anthropocene. Chapter 22.
+Schrag DP. 2012. Geobiology of the Anthropocene. Fundamentals of Geobiology. Chapter 22.
 [Link](https://doi.org/10.1002/9781118280874.ch22)
 
 Suddick EC, Whitney P, Townsend AR, and Davidson EA. 2013. The role of nitrogen in climate change and the impacts of nitrogen-climate interactions in the United States: foreword to thematic issue. Biogeochemistry. 114(3):1-10.
@@ -217,17 +223,30 @@ Zehnder AJB. 1988. Biology of anaerobic microorganisms. Research in Microbiology
 
 ```
 
-### Module 02 References
-
 ### Problem Set_03
 
 ```{r child = "File_Fragments/Problem_Set_2-3.Rmd"}
 
 ```
 
+### Module 02 References
+
+Madsen EL. 2005. Identifying microorganisms responsible for ecologically significant biogeochemical processes. Nature Reviews Microbiology. 3:439-446.
+[PMID15864265](https://www.ncbi.nlm.nih.gov/pubmed/15864265)
+
+Martinez A, Bradley AS, Waldbauer JR, Summons RE, DeLong EF. 2007. Proteorhodopsin Photosystem Gene Expression Enables Photophosphorylation in a Heterologous Host. Proceedings of the National Academy of Sciences of the United States of America. 104:5590-5595.
+[Link](http://www.jstor.org/stable/25427240)
+
+Wooley J, Godzik A, Friedberg I. 2010. A Primer on Metagenomics. PLOS COMPUTATIONAL BIOLOGY. 6:e1000667.
+[Link](https://doi.org/10.1371/journal.pcbi.1000667)
+
 # Module 03
 
-### Evidence worksheet_05
+### Evidence worksheet_05 "Extensive mosaic structure of uropathogenic E. coli"
+
+```{r child = "File_Fragments/Evidence_Worksheet_3-5.Rmd"}
+
+```
 
 ### Problem set_04
 
@@ -238,3 +257,20 @@ Zehnder AJB. 1988. Biology of anaerobic microorganisms. Research in Microbiology
 ### Module 03 Writing
 
 ### Module 03 References
+
+### Project 1
+"Module 3: Project 1 by Team 5"  
+"Mothur vs. QIIME2 Microbiome Data Analysis"  
+Authors:  
+  - Karl Abuan  
+  - May Ho  
+  - Jonah Lin  
+  - Leilynaz Malekafzali  
+  - Tiffany Yang  
+  - Abdur Rahman M. A. Basher  
+
+```{r child = "MICB425_Project1.Rmd"}
+
+```
+
+### Project 2

@@ -1,0 +1,63 @@
+---
+title: "Evidence_Worksheet_1-3"
+author: "Jonah Lin (30616130)"
+date: "March 19, 2018"
+output: html_document
+---
+
+#### Learning Objectives  
+Evaluate human impacts on the ecology and biogeochemistry of Earth systems.
+
+#### General Questions  
+* What were the main questions being asked?
+    Main Questions:
+    - Did human intervention weaken our confidence in the uniformity of the course of nature?
+    - Why shouldn't other changes as extraordinary and unprecedented happen from time to time?
+    - If a new cause was permitted to supervene, differing in kind and energy from any before in operation, why can't others have come into action at different epochs?
+    - How can the experience of one period be standard to which we can refer all natural phenomena of other periods?
+
+* What were the primary methodological approaches used?
+    Addressing aspects of geobiology of Anthropocene to address whether:
+    -	Anthropocene is recognizable among other geological epochs
+    -	When did this begin and when will it end
+    -	What, among all the many features of the geobiological record of the Anthropocene, will be most recognizable millions of years in the future
+
+* Summarize the main results or findings. 
+    -	Transition from Holocene to Anthropocene began at different times according to views:  
+        -	Near the end of the 18th century (During the invention of the steam engine)  
+        -	Began 7000 years ago with the development of agriculture due to deforestation (Hypothesis not supported by carbon cycle)  
+    -	Anthropocene is recognizable among other geological epochs due to rapid population growth:  
+        -	There might not be enough resources to sustain population in the future (Food supplies will need to be doubled by 2050)  
+        -	Greenhouse gas emissions increase with population increase due to consumption of resources as prosperity rises (Use of fossil carbon, increase in meat diet that requires more grain and pastures to sustain, etc.)  
+        -	Destruction of habitats from land use (Deforestation for timber, palm oil, pastures/croplands, ad human settlements)  
+        -	Destruction of habitats in marine environments (Overfishing, pollution with extra nutrients/toxins, acidification, habitat destruction through trawling, and climate change)  
+        -	Extra use of N/P/S affects major biogeochemical cycles (N/P for agriculture, and S for coal combustion)  
+        -	Large contribution to carbon cycle from industrial activities (Leads to ocean acidification by lowering calcium carbonate saturation state in surface ocean and warming of climate due to burning of fossil fuels faster than uptake by sinks in ocean and terrestrial biosphere)  
+    -	Future of Anthropocene:  
+        -	Destruction of nature except for species/ecosystems that serve some human-centered purpose will ultimately drive the collapse of human society  
+        -	Focus on ecosystem services could lead to conservation and change human behavior may help minimize human influence on environments (Reducing carbon dioxide through various processes and reduce solar radiation)  
+        -	Human technology has reduced dependence on natural world  
+
+* Do new questions arise from the results?  
+    -	Will the global decline of biodiversity over the next many millennia ever comes close to the enormous loss of greater than 90% species at the end-Permian extinction?  
+    -	How will the ecological responses to climate changes be coupled with all other stresses discussed above?  
+    -	How will species extinctions reduce the resilience of the remaining communities?  
+
+* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+    Sufficient information was provided for explaining key points. All key points were addressed in a logical manner (From beginning to human impacts to future prospects of humanity's future). Did not really address the question "What, among all the many features of the geobiological record of the Anthropocene, will be most recognizable millions of years in the future" clearly, only stating what might happen in the near future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

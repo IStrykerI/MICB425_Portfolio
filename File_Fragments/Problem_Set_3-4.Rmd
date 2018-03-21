@@ -1,5 +1,5 @@
 ---
-title: "Problem_set_04"
+title: "Problem_set_3-4"
 author: "Jonah Lin (30616130)"
 date: "March 3, 2018"
 output: html_document
@@ -105,7 +105,5 @@ Real_Comm_SCHAO1 = specpool(Community_Diversity_Data)
 # 2) R SRI for Original Total Community = 4.873
 # 3) R Chao1 Estimate For Sample = 10
 # 4) R Chao1 Estimate For Original Total Community = 17
-
-# Note: Fix later...
 
 ```

@@ -1,5 +1,5 @@
 ---
-title: "MICB425 Portfolio"
+title: "Pretty_PDF_Challenge"
 author: "Jonah Lin (30616130)"
 date: "Version `r format(Sys.time(), '%B %d, %Y')`"
 output: 

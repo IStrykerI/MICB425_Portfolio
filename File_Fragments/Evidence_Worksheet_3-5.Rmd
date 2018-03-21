@@ -1,0 +1,61 @@
+---
+title: "Evidence_Worksheet_3-5"
+author: "Jonah Lin (30616130)"
+date: "March 19, 2018"
+output: html_document
+---
+
+#### Part 1: Learning Objectives
+Evaluate the concept of microbial species based on environmental surveys and cultivation studies  
+Explain the relationship between microdiversity, genomic diversity and metabolic potential  
+Comment on the forces mediating divergence and cohesion in natural microbial communities  
+
+#### General Questions:
+* What were the main questions being asked?
+    Main Questions:
+    - Why do some E. coli strains live as harmless commensals in animal intestines while other distinct genotypes cause significant morbidity and mortality as human intestinal pathogens?
+    - How do we understand the genetic bases for pathogenicity and evolutionary diversity of E. coli based on comparisons of different pathogenic strains and non-pathogenic strain of E. coli?  
+
+* What were the primary methodological approaches used?  
+    Cloning and sequencing of pathogenic strain isolates with whole genome libraries prepared from genomic DNA with random clones sequenced via dye-terminator chemistry and data collected on sequencers. Sequence data were assembled by SEQMANII and sequencing of opposite ends of linking clones were done via several PCR-based techniques and primer walking.  
+    End result: Whole-genome XhoI optical map with ordering of contigs and confirmation of contig structure during assembly process and independent physical map of whole genome.   
+    Sequence analysis and annotation with MAGPIE, GIMMER for define ORFs, and predicted proteins searched against non-redundant database by using BLAST were also used.  
+
+* Summarize the main results or findings. 
+    -	Even tough virulence plasmids are common to many E. coli, they are not usually associated with uropathogenic strains and none were found in CFT073
+    -	Pathogenic strains had larger genome compared to non-pathogenic strains due to many insertions of unique segments that encode either known or potential virulence genes
+    -	More bias for rare codons in island ORFs than backbone
+    -	Variation among E. coli uropathogenic strains due to different niches. Findings suggest that introduction of high pathogenicity island may have been one of the earliest events in evolution of extraintestinal E. coli
+    -	Fimbriae for pathogenesis are common in both pathogenic and non-pathogenic strains, but pathogenic strains have highly divergent proteins compared to MG1655 and EDL933 (Suggests selective pressure on expression of pilus has varied among E. coli lineages due to specificity of adhesin to individual target tissue)
+    -	Encoding of putative autotransporters confers virulence in CFT073 similar to other pathogenic bacteria such as and enteroaggregative E. coli and Shigella flexneri
+    -	Hemolysin genes at pheV island encode cytolytic toxin and secretion apparatus, but when compared with originally characterized RTX determinants they are atypical (B/D secretion genes preceding A gene and lack of C-like gene that typically encodes a fatty acid modification enzyme). These differences in genes suggest that this locus encodes a unique class of RTX-like secreted protein  
+
+* Do new questions arise from the results?
+    - Why aren't virulence plasmids usually associated with uropathogenic strains even though they are common to many E. coli isolates?
+    - Why were the codon usage pattern in EDL933 backboune ORFs indistinguishable from CFT073 backbone in the same test?
+    - What are the unknown functions of the island genes shared by EDL933 and CFT073 (Or are associated with phage or insertion sequence elements)?
+    - What is this unique class of RTX-like secreted protein encoded by the locus in CFT073?
+    - Is there a way to assess the remove of genes that were detrimental to uropathogenic lifestyle?  
+
+* Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+    Sufficient background information was provided and the explanations/assumptions were logical, but the amount of information can be overwhelming for people in this paper (Even for a person who has some background in bacterial pathogenesis, microbiology, and immunology). Figure 3 was also helpful in understanding the comparisons between pathogenic strains of E. coli. 
+    
+#### Part 2: Learning Objectives
+Comment on the creative tension between gene loss, duplication and acquisition as it relates to microbial genome evolution  
+Identify common molecular signatures used to infer genomic identity and cohesion  
+Differentiate between mobile elements and different modes of gene transfer  
+
+Based on your reading and discussion notes, explain the meaning and content of the following figure derived from the comparative genomic analysis of three E. coli genomes by Welch et al. Remember that CFT073 is a uropathogenic strain and that EDL933 is an enterohemorrhagic strain. Explain how this study relates to your understanding of ecotype diversity. Provide a definition of ecotype in the context of the human body. Explain why certain subsets of genes in CFT073 provide adaptive traits under your ecological model and speculate on their mode of vertical descent or gene transfer.
+
+* Meaning and Content of Figure:  
+    Figure is comparison between location and sizes of CFT073 and EDL933 islands. Vertical axis indicates island size and horizontal axis indicates their position in colinear backbone.  
+
+* Explain how study relates to understanding of ecotype diversity:  
+    This study relates to our understanding of ecotype diversity since CFT073 and EDL933 are the same species, but different strains due to their ecosystem. Different ecosystems have different conditions for survival and will require different sets of genes (CFT073 was isolated from the blood of patient while EDL933 was most likely isolated from feces samples).  
+
+* Provide definition of ecotype in context of human body:  
+    Ecotype is a distinct form or race of species occupying a particular habitat. They are equivalent to strains (Uropathogenic and Enterohemorrhagic in this case).  
+
+* Explain why certain subsets of genes in CFT073 provide adaptive traits under ecological model and speculate on their mode of vertical descent or gene transfer:  
+    Pathogenic traits that are encoded in islands are transferred horizontally while ancestral backbone traits (Genes that define them as a species) are transferred vertically. Usually larger genes are harder to transfer than smaller genes (Higher genes tend to be lost in transfers).

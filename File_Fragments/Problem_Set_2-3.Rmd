@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Problem_Set_2-3"
 author: "Jonah Lin (30616130)"
 date: "March 18, 2018"
 output: html_document
@@ -64,6 +64,7 @@ Specific emphasis should be placed on the process used to find the answer. Be as
     Types of Algorithms:
       1) Align sequences to database
       2) Group to each other based on DNA characteristics (GC Content, Codon Usage, etc.)
+      
     Risks/Opportunities:
       - Incomplete coverage of genome sequence
       - Contamination from different phylogeny  
