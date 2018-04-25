@@ -294,23 +294,13 @@ Welch RA, Burland V, Plunkett G, et al. 2002. Extensive Mosaic Structure Reveale
 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139262/)
 
 ### Project 1
-"Module 3: Project 1 by Team 5"  
-"Mothur vs. QIIME2 Microbiome Data Analysis"  
-Authors:  
-  - Karl Abuan  
-  - May Ho  
-  - Jonah Lin  
-  - Leilynaz Malekafzali  
-  - Tiffany Yang  
-  - Abdur Rahman M. A. Basher  
-
 
 ```{r, echo=FALSE}
-htmltools::tags$iframe(title="MICB425 Project 1", src="MICB425_Project1/main.html", height=1000, width=1000)
+htmltools::tags$iframe(title="MICB425 Project 1", src="File_Fragments/Project1/main.html", height=1000, width=1000)
 ```
 
 ### Project 2
 
 ```{r, echo=FALSE}
-htmltools::tags$iframe(title="MICB425 Project 2", src="MICB425_Project2/main.html", height=1000, width=1000)
+htmltools::tags$iframe(title="MICB425 Project 2", src="File_Fragments/Project2/main.html", height=1000, width=1000)
 ```
