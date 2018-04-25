@@ -1,4 +1,4 @@
-# MICB425_portfolio
+# MICB425_Portfolio
 MICB425 Portfolio 2018 For Wei Ting Lin (Jonah)
 
 PLEASE READ PORTFOLIO NOTES FOR ADDITIONAL INFO.
