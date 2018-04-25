@@ -24,7 +24,7 @@ output:
 
 - Project 2: Refer to main.html in MICB425_Project2 folder for the original files
 
-- For final tree outputs from Project 2, please refer to the folder in MICB425_Project2/final_trees for both DNA and RNA trees
+- For final tree outputs from Project 2, please refer to the folder in File_Fragments/final_trees for both DNA and RNA trees
 
 # Portfolio Check
 
