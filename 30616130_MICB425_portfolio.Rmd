@@ -18,7 +18,13 @@ output:
 
 - Currently uses R version 3.4.4
 
-- Project 1: Refer to MICB425_Project1.Rmd for Team 5's current work (Report not included yet)
+- Project 1+2 are included in portfolio using html iframe, if it is displaying weirdly, please refer to the original files (Listed in the 2 points below)
+
+- Project 1: Refer to main.html in MICB425_Project1 folder for the original files 
+
+- Project 2: Refer to main.html in MICB425_Project2 folder for the original files
+
+- For final tree outputs from Project 2, please refer to the folder in MICB425_Project2/final_trees for both DNA and RNA trees
 
 # Portfolio Check
 
@@ -31,7 +37,7 @@ output:
     + Completion status: X
     + Comments:
 * Evidence worksheet_03
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Problem Set_01
     + Completion status: X
@@ -40,10 +46,10 @@ output:
     + Completion status: X
     + Comments:
 * Writing assessment_01
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Additional Readings
-    + Completion status:
+    + Completion status: X
     + Comments  
 
 ### Data Science
@@ -58,30 +64,30 @@ output:
     + Completion status: X
     + Comments: I would pat that dog.
 * ggplot
-    + Completion status: 9/10
-    + Comments: Exercise 3 should be at a different taxonomic level than the example plot. 
+    + Completion status: 9+0.5/10
+    + Comments:
 
 ## Module 02 Portfolio Content
 
 * Evidence worksheet_04
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Problem Set_03
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Writing assessment_02
     + CANCELED
 * Additional Readings
-    + Completion status:
+    + Completion status: X
     + Comments 
     
 ## Module 03 Portfolio Content
 
 * Evidence worksheet_05
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Problem set_04
-    + Completion status:
+    + Completion status: X
     + Comments:
 * Writing Assessment_03
     + Completion status:
@@ -93,13 +99,13 @@ output:
 ### Project 1
 
 * CATME account setup and survey
-    + Completion status: 
+    + Completion status: X
     + Comments: 
 * CATME interim group assessment
-    + Completion status: 
+    + Completion status: X
     + Comments:
 * Project 1
-    + Report (80%): 
+    + Report (80%): Looking good!
     + Participation (20%):
     
 ## Module 04 Portfolio Content
@@ -173,11 +179,11 @@ Paste your code from the in-class activity of recreating the example PDF.
 
 ### Module 01 Writing
 
-![](File_Fragments/Images/MICB425_Writing1_1.png)
-![](File_Fragments/Images/MICB425_Writing1_2.png)
-![](File_Fragments/Images/MICB425_Writing1_3.png)
-![](File_Fragments/Images/MICB425_Writing1_4.png)
-![](File_Fragments/Images/MICB425_Writing1_5.png)
+![](File_Fragments/Module_1_Paper/M1Paper1.png)
+![](File_Fragments/Module_1_Paper/M1Paper2.png)
+![](File_Fragments/Module_1_Paper/M1Paper3.png)
+![](File_Fragments/Module_1_Paper/M1Paper4.png)
+![](File_Fragments/Module_1_Paper/M1Paper5.png)
 
 ### Module 01 References
 
@@ -199,7 +205,7 @@ Leopold A, Schwartz CW. 1949. A Sand Country Almanac: With Other Essays on Conse
 Nisbet EG, Sleep NH. 2001. The habitat and nature of early life. Nature. 409(6823):1083-1091.
 [N/A]()
 
-Rockström J, Steffen W, Noone K, Scheffer M, Teknik- och vetenskapshistoria (bytt namn 20120201), Skolan för arkitektur och samhällsbyggnad (ABE), KTH, Filosofi och teknikhistoria. 2009. A safe operating space for humanity. Nature. 461(7263):472-475.
+Rockstr?m J, Steffen W, Noone K, Scheffer M, Teknik- och vetenskapshistoria (bytt namn 20120201), Skolan f?r arkitektur och samh?llsbyggnad (ABE), KTH, Filosofi och teknikhistoria. 2009. A safe operating space for humanity. Nature. 461(7263):472-475.
 [N/A]()
 
 Schrag DP. 2012. Geobiology of the Anthropocene. Fundamentals of Geobiology. Chapter 22.
@@ -256,7 +262,36 @@ Wooley J, Godzik A, Friedberg I. 2010. A Primer on Metagenomics. PLOS COMPUTATIO
 
 ### Module 03 Writing
 
+![](File_Fragments/Module_3_Paper/M3Paper1.png)
+![](File_Fragments/Module_3_Paper/M3Paper2.png)
+![](File_Fragments/Module_3_Paper/M3Paper3.png)
+![](File_Fragments/Module_3_Paper/M3Paper4.png)
+
 ### Module 03 References
+
+Callahan BJ, Mcmurdie PJ, Holmes SP. 2017. Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. The ISME Journal. 11:2639.
+[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5702726/)
+
+Gaudet AD, Ramer LM, Nakonechny J, Cragg JJ, Ramer MS. 2010. Small-group learning in an upper-level university biology class enhances academic performance and student attitudes toward group work. PloS one. 5:e15821.
+[Link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015821)
+
+Hallam SJ, Torres-beltrÃ¡n M, Hawley AK. 2017. Monitoring microbial responses to ocean deoxygenation in a model oxygen minimum zone. Scientific Data. 4:170158.
+[Link](https://www.nature.com/articles/sdata2017158.pdf)
+
+Hawley AK, Torres-beltrÃ¡n M, Zaikova E, et al. 2017. A compendium of multi-omic sequence information from the Saanich Inlet water column. Scientific Data. 4:170160.
+[Link](https://www.nature.com/articles/sdata2017160.pdf)
+
+Kunin V, Engelbrektson A, Ochman H, Hugenholtz P. 2010. Wrinkles in the rare biosphere: pyrosequencing errors can lead to artificial inflation of diversity estimates. Environmental microbiology. 12:118-123.
+[Link](https://www.ncbi.nlm.nih.gov/pubmed/19725865)
+
+Sogin ML, Morrison HG, Huber JA, et al. 2006. Microbial Diversity in the Deep Sea and the Underexplored "Rare Biosphere". Proceedings of the National Academy of Sciences of the United States of America. 103:12115-12120.
+[Link](http://www.pnas.org/content/103/32/12115)
+
+Torres-Beltrán M, Hawley AK, Capelle D, et al. 2017. A compendium of geochemical information from the Saanich Inlet water column. Scientific Data. 4:170159.
+[Link](https://www.nature.com/articles/sdata2017159.pdf)
+
+Welch RA, Burland V, Plunkett G, et al. 2002. Extensive Mosaic Structure Revealed by the Complete Genome Sequence of Uropathogenic Escherichia coli. Proceedings of the National Academy of Sciences of the United States of America. 99:17020-17024.
+[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139262/)
 
 ### Project 1
 "Module 3: Project 1 by Team 5"  
@@ -269,8 +304,13 @@ Authors:
   - Tiffany Yang  
   - Abdur Rahman M. A. Basher  
 
-```{r child = "MICB425_Project1.Rmd"}
 
+```{r, echo=FALSE}
+htmltools::tags$iframe(title="MICB425 Project 1", src="MICB425_Project1/main.html", height=1000, width=1000)
 ```
 
 ### Project 2
+
+```{r, echo=FALSE}
+htmltools::tags$iframe(title="MICB425 Project 2", src="MICB425_Project2/main.html", height=1000, width=1000)
+```
