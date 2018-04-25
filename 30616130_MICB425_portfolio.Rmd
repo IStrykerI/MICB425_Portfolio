@@ -293,14 +293,108 @@ Torres-Beltrán M, Hawley AK, Capelle D, et al. 2017. A compendium of geochemical
 Welch RA, Burland V, Plunkett G, et al. 2002. Extensive Mosaic Structure Revealed by the Complete Genome Sequence of Uropathogenic Escherichia coli. Proceedings of the National Academy of Sciences of the United States of America. 99:17020-17024.
 [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC139262/)
 
-### Project 1
+## Project 1
 
 ```{r, echo=FALSE}
 htmltools::tags$iframe(title="MICB425 Project 1", src="File_Fragments/Project1/main.html", height=1000, width=1000)
 ```
 
-### Project 2
+### Abstract  
+#### Writing  
+N/A  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Introduction  
+#### Literature research  
+N/A  
+
+#### Writing  
+N/A  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Methods  
+#### Writing  
+Wrote all parts of Method except General Linear Model  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Results  
+#### Anaysis  
+Analyzed the overall trend of data from both Mothur and QIIME2  
+
+#### Figures  
+N/A  
+
+#### Writing  
+Wrote the last paragraph (Analysis of results from Mothur and QIIME2 processed data)  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Discussion  
+#### Literature research  
+Did literature searches only for the 4 points  
+
+#### Writing  
+Wrote the 4 major points and future directions  
+
+#### Editing  
+Edited both the draft and final copy  
+
+## Project 2
 
 ```{r, echo=FALSE}
 htmltools::tags$iframe(title="MICB425 Project 2", src="File_Fragments/Project2/main.html", height=1000, width=1000)
 ```
+
+### Abstract  
+#### Writing  
+N/A  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Introduction  
+#### Literature research  
+N/A  
+
+#### Writing  
+N/A  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Methods  
+#### Writing  
+Wrote all the Methods (TreeSAPP/RPKM/etc.)  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Results  
+#### Anaysis  
+N/A  
+
+#### Figures  
+Edited some figures (Contributed by Abdur) to match feedbacks from first draft  
+
+#### Writing  
+N/A  
+
+#### Editing  
+Edited both the draft and final copy  
+
+### Discussion  
+#### Literature research  
+Provided literature sources to support Discussion  
+
+#### Writing  
+Wrote Point 2 of Discussion (Propose evolutionary, environmental, etc. reasoning for distributed metabolism as seen in the nitrogen cycle)  
+
+#### Editing  
+Edited both the draft and final copy  
